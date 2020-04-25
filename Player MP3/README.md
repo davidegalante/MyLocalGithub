@@ -1,4 +1,4 @@
-			     MP3 Player - @author Davide Galante, 3°A Inf.
+# MP3 Player - Davide Galante
 
 					DESCRIZIONE:
 
