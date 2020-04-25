@@ -1,9 +1,8 @@
 '''
-	Player MP3 - @author Davide Galante
-
-	Player MP3 realizzato in Python con l'ausilio delle librerie
-	Tkinter, Pygame , Random e Os.
-
+        Player MP3 - @author Davide Galante
+	
+        Player MP3 realizzato in Python con l'ausilio delle librerie
+        Tkinter, Pygame , Random e Os.
 '''
 from random import randint
 from tkinter import *
