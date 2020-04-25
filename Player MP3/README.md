@@ -1,8 +1,7 @@
 			     MP3 Player - @author Davide Galante, 3°A Inf.
 
-###############################################################################################################
 					DESCRIZIONE:
-###############################################################################################################
+
 
 	Player Musicale con funzioni di:
 	-Play
@@ -15,9 +14,8 @@
 	-Cambio e Aggiunta di Canzoni
 	-Aggiunta e Rimozione delle Copertine
 
-###############################################################################################################
 					COME FUNZIONA: 
-###############################################################################################################
+
 
 	Appena aperto, non è selezionata nessuna canzone. Selezionarne una tra quelle presenti
 	nella listbox a sinistra, oppure selezionarne una nuova.
@@ -28,9 +26,9 @@
 	Per cambiare canzone, selezionare un'altra traccia dalla listbox precedentemente citata e 
 	successivamente premere il bottone Play.
 
-###############################################################################################################
+
 				COME AGGIUNGERE NUOVE CANZONI:
-###############################################################################################################
+
 
 	Metodo 1)
 	-Inserire il file mp3 dentro alla cartella 'mp3'.
