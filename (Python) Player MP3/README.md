@@ -1,4 +1,4 @@
-# MP3 Player - Davide Galante
+# MP3 Player Python - Davide Galante
 
 
 					DESCRIZIONE:
